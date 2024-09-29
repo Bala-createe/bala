@@ -1,0 +1,9 @@
+PFL-Pressure from low
+PFC-Pressure from close
+PFH-Pressure from high
+PMR-Price Movement Range
+
+Work on the stop loss and target.
+Using the prediction
+We are trying to predict support and resistance
+Plot all values into a chart
